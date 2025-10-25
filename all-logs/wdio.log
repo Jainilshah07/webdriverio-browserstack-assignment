@@ -1,0 +1,1 @@
+2025-10-22T10:01:56.332Z ERROR chromedriver: Can't load chromedriver, please define "chromedriverCustomPath" property or install dependency via "npm install chromedriver --save-dev"
